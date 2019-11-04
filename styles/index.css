@@ -1,0 +1,105 @@
+/* HEADER */
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(to right,#dadadad4 0%,#ffffffdb 100%); 
+    z-index: 999;
+}
+
+#header img {
+    max-width: 150px;
+}
+
+#header .nav-item a {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    padding: 11px 16px;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    position: relative;
+    margin: 14px 0;
+}
+
+#header .navbar-toggler {
+    outline: none;
+    cursor: pointer;
+}
+
+#header .navbar-toggler .toggler-icon {
+    width: 30px;
+    height: 2px;
+    background-color: #121212;
+    margin: 5px 0;
+    display: block;
+    position: relative;
+}
+
+#header .navbar-collapse .nav-item {
+    padding: 12px 0;
+}
+
+.header-spacer {
+    min-height: 86px;
+}
+
+#header{
+    padding: 0;
+}
+
+/*carousel*/
+
+.carousel-container {
+    margin-bottom: 10px;
+}
+
+.home-carousel {
+    margin-top: -86px;
+    padding: 0;
+}
+
+
+/*featured-items*/
+
+.card-item h3{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    color: #393838;
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* FOOTER */
+#upper-footer div{
+    padding: 15px;
+}
+
+.footer-area{
+    background-image: linear-gradient(to right,#a59c9ccb 0%,#ffffffdb 100%); 
+    margin-top: auto;
+}
+  
+.footer-logo-container img{
+    width: 37px;
+    height: 20px; 
+}
+
+.list-inline-item a {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0px;
+    color: black;
+}
+#lower-footer{
+    padding: 15px;
+}
+
+#lower-footer h6{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 10px;
+}

@@ -1,0 +1,13 @@
+.form-row {
+    font-size: 12px;
+    margin-top: 15px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.form-row #message {
+    height: 130px;
+    resize: none;
+}
+.submit.button {
+    margin-top: 20px;
+}

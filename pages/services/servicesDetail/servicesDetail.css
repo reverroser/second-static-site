@@ -1,0 +1,25 @@
+.service-detail-container {
+    margin-top: 26px;
+   }
+   .service-detail-container img{
+       margin-bottom: 30px;
+   }
+   .service-detail-container h6 {
+       font-family: 'Open Sans Condensed', sans-serif;
+       font-size: 20px;
+       line-height: 24px;
+       color: #3c3a3a;
+       margin: 30px;
+       text-align: center;
+   }
+   
+   .service-detail-container p {
+       font-family: 'Open Sans Condensed', sans-serif;
+       font-size: 20px;
+       line-height: 18px;
+       color: #555353;
+       margin: 30px;
+       text-align: center;
+       padding: 20px;
+       line-height: 25px;
+   }
