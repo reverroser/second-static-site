@@ -1,4 +1,4 @@
-export function initModalGalleryImages() {
+function initModalGalleryImages() {
     const modal = document.getElementById("imagePopover");
 
     const popoverImages = document.getElementsByClassName("popover-img");
@@ -16,3 +16,5 @@ export function initModalGalleryImages() {
         modal.style.display = "none";
     });
 }
+
+initModalGalleryImages();
