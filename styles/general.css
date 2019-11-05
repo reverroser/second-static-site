@@ -60,3 +60,7 @@ section {
 .breadcrumb-item a {
     color: rgb(79, 77, 77);
     }
+
+a:hover {
+text-decoration: none;
+}
